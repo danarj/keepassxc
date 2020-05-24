@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Layer-1" serif:id="Layer 1" transform="matrix(1,0,0,1,0,-793.89)">
+        <g id="g882" transform="matrix(0.336742,0,0,0.352778,1.09091,793.89)">
+            <path id="path876" d="M10.865,14.173C7.997,14.173 5.669,16.174 5.669,19.176L5.669,94.209C5.669,96.712 7.997,99.213 10.865,99.213L125.198,99.213C128.066,99.213 130.394,96.712 130.394,94.209L130.394,19.176C130.394,16.174 128.066,14.173 125.198,14.173L10.865,14.173Z" style="fill:rgb(189,195,199);fill-rule:nonzero;"/>
+            <rect id="rect878" x="14.173" y="22.677" width="107.717" height="68.031" style="fill:rgb(120,194,230);"/>
+        </g>
+        <g transform="matrix(1.02638,0,0,0.871313,-1.30567,796.29)">
+            <path d="M16.119,22.586L16.119,27.359L10.041,20.199L16.119,13.039L16.119,17.812L33.192,17.812L33.192,13.039L39.27,20.199L33.192,27.359L33.192,22.586L16.119,22.586Z" style="fill:rgb(41,125,212);"/>
+        </g>
+        <g id="rect10-6-5-2" transform="matrix(-11.6667,1.38181e-15,1.13058e-15,-0.313605,-81,506.683)">
+            <rect x="-10.5" y="-1055.25" width="3" height="1.65" style="fill:rgb(127,140,141);"/>
+        </g>
+        <g id="rect10-6-5-21" serif:id="rect10-6-5-2" transform="matrix(-4.44445,4.97347e-16,4.06921e-16,-0.313605,-16,507.502)">
+            <rect x="-10.5" y="-1055.25" width="3" height="1.65" style="fill:rgb(127,140,141);"/>
+        </g>
+        <g id="rect10-6-5" transform="matrix(-6.9496e-16,-1.4362,3.30294,-1.29644e-15,-15.6353,-679.095)">
+            <rect x="-1053.61" y="11.325" width="3.667" height="1.35" style="fill:rgb(189,195,199);"/>
+        </g>
+        <g id="rect10-6-5-22" serif:id="rect10-6-5-2" transform="matrix(-3.61111,1.7009e-16,1.39164e-16,-1.81818,-20.5833,-1081.54)">
+            <rect x="-10.5" y="-1055.25" width="3" height="1.65" style="fill:rgb(189,195,199);"/>
+        </g>
+        <g id="rect10-6-5-2-1" transform="matrix(-3.61111,1.7009e-16,1.39164e-16,-1.81818,-18.0833,-1081.54)">
+            <rect x="-16.5" y="-1055.25" width="3" height="1.65" style="fill:rgb(189,195,199);"/>
+        </g>
+        <g id="rect10-6" transform="matrix(4.44444,0,0,2.81115,-29.3333,-2128.55)">
+            <rect x="10.5" y="1053.6" width="3" height="1.65" style="fill:rgb(28,173,7);"/>
+        </g>
+    </g>
+</svg>
