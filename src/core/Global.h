@@ -49,8 +49,8 @@ static const auto FALSE_STR = QStringLiteral("false");
 namespace IconSize
 {
     constexpr int Default = 24;
-    constexpr int Medium = 32;
-    constexpr int Large = 40;
+    constexpr int Medium = 28;
+    constexpr int Large = 36;
 } // namespace IconSize
 
 template <typename T> struct AddConst
